@@ -1,0 +1,1 @@
+console.log('Por amor al Creador seguiré adelante')
